@@ -6,7 +6,7 @@ A simple Infinite SP patch for Career Mode on PS5.
 
 - **Title ID:** PPSA34015
 - **Patch format:** PS-Game-Patch XML
-- **Loader:** CheatRunner
+- **Loader:** CheatRunner v 0.18
 - **Author:** Leiva
 
 ### Installation
